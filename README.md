@@ -2,7 +2,8 @@ Julia iervese e Danilo Santana
 
 Prometheus estava dando erro, ficou assim:
 
-![alt text](image.png)
+<img width="2092" height="1341" alt="image" src="https://github.com/user-attachments/assets/86406f46-7df3-487f-9628-1e7f9782310c" />
+
 
 # Monitoramento e Observabilidade em DevOps
 
